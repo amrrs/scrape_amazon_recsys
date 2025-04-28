@@ -1,4 +1,4 @@
-# scrape_amazon_recsys
+# Amazon Recsys powered by ScraperAPI & Gemini 
 A quick demo of Scraping Amazon with Scraper API and building a Recsys powered by Gemini
 
 Full Video Tutorial - https://www.youtube.com/watch?v=shOqJCrwfk0
